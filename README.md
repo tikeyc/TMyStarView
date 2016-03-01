@@ -1,4 +1,4 @@
-# THorizontalAlbumTableView
+# TMyStarView
 
 只需传入星星的图片
 
@@ -13,4 +13,4 @@ self.xibStarView.rating = 4.4;
 self.xibStarView.isTouch = YES;
 
 
-![image](https://github.com/tikeyc/THorizontalAlbumTableView/raw/master/ReadMe/screen.png)
+![image](https://github.com/tikeyc/TMyStarView/raw/master/ReadMe/screen.png)
